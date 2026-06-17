@@ -1,0 +1,6 @@
+{
+  "name": "Follow Up and Report Sheet",
+  "description": "An elegant, editorial-styled template to record names, sex, phone numbers, addresses, and follow-up reports. Includes high-fidelity export formats for Notepad, Word, and PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
